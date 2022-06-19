@@ -1,7 +1,7 @@
 .dev{
     
     
-    background-color: rgb(152, 202, 160);
+    background-color: rgb(255, 255, 255);
     opacity: 100%;
     padding: 7px;
     align-items: center;
@@ -10,10 +10,15 @@
     margin: 0px;
 }
 .nav-item{
+    position: relative;
+    top: 15px;
     
     margin: 5px;
     display:inline-block;
     width: 150px;
+}
+.list{
+    color: black;
 }
 .nav-item1{
     position: relative;
@@ -23,6 +28,8 @@
     width: 150px;
 }
 .main{
+    position: relative;
+    right:600px ;
     display:inline-block;
     height: 50px;
     width:50px;
@@ -30,7 +37,7 @@
 }
 .graphity{
     position: relative;
-    top: 165px;
+    top: 190px;
     font-size: 500%;
     text-align: right;
     color: bisque;
@@ -40,4 +47,68 @@
 .dev2{
     background-color: black;
     height: 500px;
+}
+.dev3{
+    
+    height: 500px;
+}
+.my{
+    position: relative;
+    top: 20px;
+    font-size: 200%;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.dev4{
+    
+    position: relative;
+    top: 50px;
+    height: 100px;
+}
+.avi{
+    height: 200px;
+    position: relative;
+    left: 100px;
+}
+.cer{
+    height: 200px;
+    position: relative;
+    left: 200px;
+}
+.inn{
+    height: 200px;
+    position: relative;
+    left: 300px;
+}
+.ts{
+    height: 200px;
+    position: relative;
+    left: 370px;
+    top:25px;
+}
+.vdo{
+    height: 200px;
+    position: relative;
+    left: 150px;
+}
+.mas{
+    height: 200px;
+    position: relative;
+    left: 370px;
+}
+.open{
+    height: 200px;
+    position: relative;
+    left: 900px;
+}
+.bad{
+    height: 200px;
+    position: relative;
+    left: 450px;
+}
+.dev5{
+    position: relative;
+    top: 100px;
+    background-color: black;
+    height:500px ;
 }
