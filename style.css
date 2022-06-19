@@ -53,6 +53,7 @@
     height: 500px;
 }
 .my{
+    font-family: 'montserrat', 'Arial Narrow', Arial, sans-serif;
     position: relative;
     top: 20px;
     font-size: 200%;
@@ -110,5 +111,13 @@
     position: relative;
     top: 100px;
     background-color: black;
-    height:500px ;
+    height:700px ;
+}
+.card{
+    position: relative;
+    top: 100px;
+    margin-left: 100px;
+}
+.card-text{
+    font-family:montserrat;
 }
