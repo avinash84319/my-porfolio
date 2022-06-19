@@ -1,0 +1,43 @@
+.dev{
+    
+    
+    background-color: rgb(152, 202, 160);
+    opacity: 100%;
+    padding: 7px;
+    align-items: center;
+}
+.justify-content-end{
+    margin: 0px;
+}
+.nav-item{
+    
+    margin: 5px;
+    display:inline-block;
+    width: 150px;
+}
+.nav-item1{
+    position: relative;
+    right: 100px;
+    margin: 5px;
+    display:inline-block;
+    width: 150px;
+}
+.main{
+    display:inline-block;
+    height: 50px;
+    width:50px;
+    border-radius: 50%;
+}
+.graphity{
+    position: relative;
+    top: 165px;
+    font-size: 500%;
+    text-align: right;
+    color: bisque;
+    margin-right: 40px;
+    
+}
+.dev2{
+    background-color: black;
+    height: 500px;
+}
