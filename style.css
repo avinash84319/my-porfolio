@@ -47,6 +47,7 @@
 .dev2{
     background-color: black;
     height: 500px;
+    width: 100%;
 }
 .dev3{
     
@@ -68,50 +69,43 @@
 }
 .avi{
     height: 200px;
-    position: relative;
-    left: 100px;
+    
 }
 .cer{
     height: 200px;
-    position: relative;
-    left: 200px;
+    
 }
 .inn{
     height: 200px;
-    position: relative;
-    left: 300px;
+   
 }
 .ts{
     height: 200px;
-    position: relative;
-    left: 370px;
-    top:25px;
+   
 }
 .vdo{
     height: 200px;
-    position: relative;
-    left: 150px;
+    
 }
 .mas{
     height: 200px;
-    position: relative;
-    left: 370px;
+    
 }
 .open{
     height: 200px;
-    position: relative;
-    left: 900px;
+    
 }
 .bad{
     height: 200px;
-    position: relative;
-    left: 450px;
+    align-items: center;
+    
 }
 .dev5{
     position: relative;
     top: 100px;
     background-color: black;
     height:700px ;
+    width: 100%
 }
 .card{
     position: relative;
